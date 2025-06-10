@@ -1,50 +1,19 @@
-# Hey, I am Sandhya Shiwakoti! 👋
+![Header](./cover-header.png)
 
-I'm a **Computer Science Student** at Herald College with a passion for learning and exploring the tech world. ✨ I believe in continuous learning and **enjoy diving deep into coding challenges**. 🚀 Currently, I'm on an exciting journey with the **60 Days of JS and React Challenge** and **building my foundation in software development**.
+🔭 I'm currently working on 60 Days of JS and React Challenge with Leapfrog<br>🌱 I'm currently learning JavaScript and React fundamentals<br>👯 I'm looking to collaborate on Beginner-Friendly Open Source Projects<br>📚 Most of my projects are available at Github<br>📫 How to reach me: sandhya.shiwakoti.dev@gmail.com<br>🎉 Fun fact: I collect programming languages like some people collect stamps - currently have 8 in my arsenal and counting!
 
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" alt="Coding"/>
 
-- 🔭 I'm currently working on **60 Days of JS and React Challenge with Leapfrog**
-- 🌱 I'm currently learning **JavaScript and React fundamentals**
-- 👯 I'm looking to collaborate on **Beginner-Friendly Open Source Projects**
-- 📚 Most of my projects are available at [Github](https://github.com/sandhyashiwakoti?tab=repositories)
-- 📫 How to reach me: sandhya.shiwakoti.dev@gmail.com
-- 🎉 Fun fact: I collect programming languages like some people collect stamps - currently have 8 in my arsenal and counting!
+## 🌐 Socials:
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/minifizz_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandhya.shiwakoti.dev@gmail.com) 
 
-### 🛠️ Languages and Tools
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sandhyashiwakoti&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sandhyashiwakoti&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandhyashiwakoti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+---
+[![](https://visitcount.itsvg.in/api?id=sandhyashiwakoti&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🤝 Find Me Elsewhere
-
-<p align="left">
-  <a href="https://x.com/minifizz_" target="blank"><img src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" alt="X (Twitter)" height="30" width="30" /></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_sandhyaa.a/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sandhyaa.a" height="30" width="30" /></a>&nbsp;&nbsp;
-</p>
-
-### 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandhyashiwakoti&show_icons=true&locale=en&layout=compact&theme=dark" alt="sandhyashiwakoti" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandhyashiwakoti&show_icons=true&locale=en&theme=dark" alt="sandhyashiwakoti" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandhyashiwakoti&theme=dark" alt="sandhyashiwakoti" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
