@@ -1,6 +1,8 @@
 ![Header](./cover-header.png)
 
-🔭 I'm currently working on 60 Days of JS and React Challenge with Leapfrog<br>🌱 I'm currently learning JavaScript and React fundamentals<br>👯 I'm looking to collaborate on Beginner-Friendly Open Source Projects<br>📚 Most of my projects are available at Github<br>📫 How to reach me: sandhya.shiwakoti.dev@gmail.com<br>🎉 Fun fact: I collect programming languages like some people collect stamps - currently have 8 in my arsenal and counting!
+🔭 I'm currently working on 60 Days of JS and React Challenge with Leapfrog<br>🌱 I'm currently learning JavaScript and React fundamentals<br>👯 I'm looking to collaborate on Beginner-Friendly Open Source Projects<br>📚 Most of my projects are available at Github<br>📫 How to reach me: sandhya.shiwakoti.dev@gmail.com<br>🎉 Fun fact: My left hand writes code. My right hand? Just there to scroll memes and cheer me on.
+
+
 
 
 ## 🌐 Socials:
