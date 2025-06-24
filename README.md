@@ -1,12 +1,12 @@
 ![Header](./cover-header.png)
 
 🎓 I'm a Computer Science student building my foundation in tech.<br>
-🔭 I'm currently working on 60 Days of JS and React Challenge with Leapfrog<br>🌱 I'm looking to collaborate on Beginner-Friendly Open Source Projects<br>📚 Most of my projects are available at Github<br>📫 How to reach me: sandhya.shiwakoti.dev@gmail.com<br>🎉 Fun fact: My left hand writes code. My right hand? Just there to scroll memes and cheer me on.
+🔭 I'm currently working on 60 Days of JS and React Challenge with Leapfrog.<br>🌱 I'm looking to collaborate on Beginner-Friendly Open Source Projects.<br>📚 Most of my projects are available at Github.<br>📫 How to reach me: sandhya.shiwakoti.dev@gmail.com<br>🎉 Fun fact: My left hand writes code. My right hand? Just there to scroll memes and cheer me on.
 
 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/minifizz_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandhya.shiwakoti.dev@gmail.com) 
 
 # 💻 Tech Stack:
@@ -57,7 +57,6 @@
 </table>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sandhyashiwakoti&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sandhyashiwakoti&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandhyashiwakoti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
