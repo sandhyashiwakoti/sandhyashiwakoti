@@ -11,6 +11,9 @@
 <p align="left">
   <a href="https://x.com/minifizz_" target="blank"><img src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" alt="X (Twitter)" height="30" width="30" /></a>&nbsp;&nbsp;
   <a href="mailto:sandhya.shiwakoti.dev@gmail.com" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="30" width="30" /></a>&nbsp;&nbsp;
+  <a href="https://np.linkedin.com/in/sandhya-shiwakoti" target="blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
+</a>
 </p>
 
 <br/> 
