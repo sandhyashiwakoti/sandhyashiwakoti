@@ -1,7 +1,7 @@
 ![Header](./cover-header.png)
 
 🎓 I'm a Computer Science student building my foundation in tech.<br>
-🔭 I'm currently working on 60 Days of JS and React Challenge with Leapfrog.<br>🌱 I'm looking to collaborate on Beginner-Friendly Open Source Projects.<br>📚 Most of my projects are available at Github.<br>📫 How to reach me: sandhya.shiwakoti.dev@gmail.com<br>🎉 Fun fact: My left hand writes code. My right hand? Just there to scroll memes and cheer me on.
+🌱 I'm looking to collaborate on Beginner-Friendly Open Source Projects.<br>📚 Most of my projects are available at Github.<br>📫 How to reach me: sandhya.shiwakoti.dev@gmail.com<br>🎉 Fun fact: My left hand writes code. My right hand? Just there to scroll memes and cheer me on.
 
 
 <br/> 
